@@ -1,0 +1,31 @@
+prj_venv/*
+archived/*
+%*/*
+logs/*.log
+*.env
+*.xlsx
+*.csv
+*.log
+*bak.*
+*.bak
+**/bak/
+tests/manual/*
+*.ipynb
+output/*
+*.pyc
+**/__pycache__/
+**/output/
+**/tmp/
+*.json
+*.ps1
+*.jpg
+*.jpeg
+*.png
+*.pdf
+*.zip
+<<<<<<< HEAD
+*.docx
+*.psm1
+=======
+*.docx
+>>>>>>> 737b9b05c6e30f053ed1e59492849aaa1015e381

@@ -23,9 +23,5 @@ output/*
 *.png
 *.pdf
 *.zip
-<<<<<<< HEAD
 *.docx
 *.psm1
-=======
-*.docx
->>>>>>> 737b9b05c6e30f053ed1e59492849aaa1015e381
